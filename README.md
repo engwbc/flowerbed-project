@@ -9,4 +9,4 @@
 - .csv files (`flowerbedpH-month.csv`) contains raw data (stored in `/input/ph-input/`)
 
 # Wordcloud:
-- Contians simplified visualisation of results.
+- Contains simplified visualisation of results.
